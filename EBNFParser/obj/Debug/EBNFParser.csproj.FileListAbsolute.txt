@@ -1,1 +1,6 @@
 c:\users\colby\documents\visual studio 2015\Projects\EBNFParser\EBNFParser\bin\Debug\EBNFParser.exe.config
+C:\Users\colby\documents\visual studio 2015\Projects\EBNFParser\EBNFParser\obj\Debug\EBNFParser.csprojResolveAssemblyReference.cache
+C:\Users\colby\documents\visual studio 2015\Projects\EBNFParser\EBNFParser\bin\Debug\EBNFParser.exe
+C:\Users\colby\documents\visual studio 2015\Projects\EBNFParser\EBNFParser\bin\Debug\EBNFParser.pdb
+C:\Users\colby\documents\visual studio 2015\Projects\EBNFParser\EBNFParser\obj\Debug\EBNFParser.exe
+C:\Users\colby\documents\visual studio 2015\Projects\EBNFParser\EBNFParser\obj\Debug\EBNFParser.pdb
